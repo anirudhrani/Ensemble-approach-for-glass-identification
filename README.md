@@ -1,5 +1,5 @@
 # Ensemble-approach-for-glass-identification
-Algortihm used :- #XG Boost\
+Algortihm used :- #XG Boost
 
 Dataset : This is a Glass Identification Data Set from University of Califonia, Irvine. The response is glass type (discrete 7 values).\
 
